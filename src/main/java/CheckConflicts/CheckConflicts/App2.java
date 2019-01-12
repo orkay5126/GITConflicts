@@ -13,11 +13,15 @@ public class App2
     
     public static void funWSA()
     {
-        System.out.println( "Function - WorkSpace A " );
+        System.out.println( "Function - WorkSpace A - Updated from WS-C " );
     }
     
     public static void funWSB()
     {
         System.out.println( "Function - WorkSpace B " );
+    }
+    public static void funWSC()
+    {
+        System.out.println( "Function - WorkSpace C " );
     }
 }
